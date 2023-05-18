@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CODingSAHIL
 - 👀 I’m interested in ... website development and machine learning
-- 🌱 I’m currently learning ... Javascript, Reactjs 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... React.js and express js 
+- 💞️ I’m looking to learn from the best developers.
 - 📫 How to reach me ...  email me :- sahilsharma2000dtc@gmail.com
 
 <!---
